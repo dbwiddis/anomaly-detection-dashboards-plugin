@@ -136,7 +136,7 @@ jobs:
         with:
           path: opensearch-dashboards-functional-test
           repository: dbwiddis/opensearch-dashboards-functional-test
-          ref: fix-eui-filter-select-item
+          ref: ad-fix
           fetch-depth: 0
 
       - name: Install Cypress
